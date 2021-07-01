@@ -5,5 +5,5 @@ console.log(userAnswer);
 if (userAnswer == 'yes'){  
    document.write('<h3>Lets Go ' + userName + '</h3>');
 } else {
-    document.write('<h3>Thats Lame ' + userName + '</h3>');
+    document.write('<h3>Fine, Be LAME ' + userName + '</h3>');
 }
