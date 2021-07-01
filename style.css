@@ -1,0 +1,43 @@
+header {
+    background-color: black;
+    text-align: center;
+    padding-top: 5px;
+    }
+
+body {
+    background-color: #003840;
+    color: white;
+}
+
+h1 {
+    color: #00bcd4;
+    border: #00bcd4 5px dashed; 
+}
+
+ul {
+    background-color: #00bcd4;
+}
+
+section {
+    text-align: center;
+}
+
+header li {
+    display: inline;
+    padding: 10px;
+}
+
+footer li {
+    display: inline;
+    padding: 10px;
+}
+
+img {
+    width: 750px;
+    height: 400px;
+
+}
+
+footer {
+    text-align: center;
+}
